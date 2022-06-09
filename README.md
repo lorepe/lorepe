@@ -2,7 +2,7 @@
 
 
 ## About me
-My name Lorena. I'm a fullStack developer (in-progress)
+My name is Lorena. I'm a fullStack developer (in-progress)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LorenaP-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LorenaPerezEscobar)](https://www.linkedin.com/in/LorenaPerezEscobar)
 --
